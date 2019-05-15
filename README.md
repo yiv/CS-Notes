@@ -11,77 +11,81 @@
 <div align="center">
     <img src="assets/LogoMakr_0zpEzN.png" width="200px">
     <br>
-    <a href="https://cyc2018.github.io/CS-Notes"> <img src="https://img.shields.io/badge/>-read-4ab8a1.svg"></a>  <a href="https://xiaozhuanlan.com/CyC2018"> <img src="https://img.shields.io/badge/_-more-4ab8a1.svg"></a> 
+    <a href="https://cyc2018.github.io/CS-Notes"> <img src="https://img.shields.io/badge/>-read-4ab8a1.svg"></a>  <a href="https://xiaozhuanlan.com/yiv"> <img src="https://img.shields.io/badge/_-more-4ab8a1.svg"></a> 
     <br> <br>
-    本项目包含了技术面试必备的基础知识，内容浅显易懂，你不需要花很长的时间去阅读和理解成堆的技术书籍就可以快速掌握这些知识，从而节省宝贵的面试复习时间。推荐使用 https://cyc2018.github.io/CS-Notes 进行阅读，从而获得更好的阅读体验。你也可以订阅 <a href="https://xiaozhuanlan.com/CyC2018">面试进阶指南</a>，包含了学习指导和面试技巧，让你更轻松拿到满意的 Offer。
+    本项目包含了技术面试必备的基础知识，内容浅显易懂，你不需要花很长的时间去阅读和理解成堆的技术书籍就可以快速掌握这些知识，从而节省宝贵的面试复习时间。推荐使用 https://cyc2018.github.io/CS-Notes 进行阅读，从而获得更好的阅读体验。你也可以订阅 <a href="https://xiaozhuanlan.com/yiv">面试进阶指南</a>，包含了学习指导和面试技巧，让你更轻松拿到满意的 Offer。
 </div> 
 
 <br>
 
 ## :pencil2: 算法
 
-- [剑指 Offer 题解](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/剑指%20offer%20题解.md)
-- [Leetcode 题解](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Leetcode%20题解.md)
-- [算法](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/算法.md)
+- [剑指 Offer 题解](https://github.com/yiv/CS-Notes/blob/master/docs/notes/剑指%20offer%20题解.md)
+- [Leetcode 题解](https://github.com/yiv/CS-Notes/blob/master/docs/notes/Leetcode%20题解.md)
+- [算法](https://github.com/yiv/CS-Notes/blob/master/docs/notes/算法.md)
 
 ## :computer: 操作系统
 
-- [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/计算机操作系统.md)
-- [Linux](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Linux.md)
+- [计算机操作系统](https://github.com/yiv/CS-Notes/blob/master/docs/notes/计算机操作系统.md)
+- [Linux](https://github.com/yiv/CS-Notes/blob/master/docs/notes/Linux.md)
 
 ## :cloud: 网络 
 
-- [计算机网络](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/计算机网络.md)
-- [HTTP](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/HTTP.md)
-- [Socket](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Socket.md)
+- [计算机网络](https://github.com/yiv/CS-Notes/blob/master/docs/notes/计算机网络.md)
+- [HTTP](https://github.com/yiv/CS-Notes/blob/master/docs/notes/HTTP.md)
+- [Socket](https://github.com/yiv/CS-Notes/blob/master/docs/notes/Socket.md)
 
 ## :art: 面向对象
 
-- [设计模式](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/设计模式.md)
-- [面向对象思想](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/面向对象思想.md)
+- [设计模式](https://github.com/yiv/CS-Notes/blob/master/docs/notes/设计模式.md)
+- [面向对象思想](https://github.com/yiv/CS-Notes/blob/master/docs/notes/面向对象思想.md)
 
 ## :floppy_disk: 数据库 
 
-- [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/数据库系统原理.md)
-- [SQL](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/SQL.md)
-- [Leetcode-Database 题解](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Leetcode-Database%20题解.md)
-- [MySQL](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/MySQL.md)
-- [Redis](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Redis.md)
+- [数据库系统原理](https://github.com/yiv/CS-Notes/blob/master/docs/notes/数据库系统原理.md)
+- [SQL](https://github.com/yiv/CS-Notes/blob/master/docs/notes/SQL.md)
+- [Leetcode-Database 题解](https://github.com/yiv/CS-Notes/blob/master/docs/notes/Leetcode-Database%20题解.md)
+- [MySQL](https://github.com/yiv/CS-Notes/blob/master/docs/notes/MySQL.md)
+- [Redis](https://github.com/yiv/CS-Notes/blob/master/docs/notes/Redis.md)
+
+## Golang
+
+- [Go 基础](https://github.com/yiv/CS-Notes/blob/master/docs/notes/Go%20基础.md)
 
 ## :coffee: Java
 
-- [Java 基础](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Java%20基础.md)
-- [Java 容器](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Java%20容器.md)
-- [Java 并发](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Java%20并发.md)
-- [Java 虚拟机](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Java%20虚拟机.md)
-- [Java I/O](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Java%20IO.md)
+- [Java 基础](https://github.com/yiv/CS-Notes/blob/master/docs/notes/Java%20基础.md)
+- [Java 容器](https://github.com/yiv/CS-Notes/blob/master/docs/notes/Java%20容器.md)
+- [Java 并发](https://github.com/yiv/CS-Notes/blob/master/docs/notes/Java%20并发.md)
+- [Java 虚拟机](https://github.com/yiv/CS-Notes/blob/master/docs/notes/Java%20虚拟机.md)
+- [Java I/O](https://github.com/yiv/CS-Notes/blob/master/docs/notes/Java%20IO.md)
 
 ## :bulb: 系统设计 
 
-- [系统设计基础](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/系统设计基础.md)
-- [分布式](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/分布式.md)
-- [集群](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/集群.md)
-- [攻击技术](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/攻击技术.md)
-- [缓存](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/缓存.md)
-- [消息队列](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/消息队列.md)
+- [系统设计基础](https://github.com/yiv/CS-Notes/blob/master/docs/notes/系统设计基础.md)
+- [分布式](https://github.com/yiv/CS-Notes/blob/master/docs/notes/分布式.md)
+- [集群](https://github.com/yiv/CS-Notes/blob/master/docs/notes/集群.md)
+- [攻击技术](https://github.com/yiv/CS-Notes/blob/master/docs/notes/攻击技术.md)
+- [缓存](https://github.com/yiv/CS-Notes/blob/master/docs/notes/缓存.md)
+- [消息队列](https://github.com/yiv/CS-Notes/blob/master/docs/notes/消息队列.md)
 
 ## :wrench: 工具 
 
-- [Git](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Git.md)
-- [Docker](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/Docker.md)
-- [构建工具](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/构建工具.md)
-- [正则表达式](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/正则表达式.md)
+- [Git](https://github.com/yiv/CS-Notes/blob/master/docs/notes/Git.md)
+- [Docker](https://github.com/yiv/CS-Notes/blob/master/docs/notes/Docker.md)
+- [构建工具](https://github.com/yiv/CS-Notes/blob/master/docs/notes/构建工具.md)
+- [正则表达式](https://github.com/yiv/CS-Notes/blob/master/docs/notes/正则表达式.md)
 
 ## :watermelon: 编码实践 
 
-- [代码可读性](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/代码可读性.md)
-- [代码风格规范](https://github.com/CyC2018/CS-Notes/blob/master/docs/notes/代码风格规范.md)
+- [代码可读性](https://github.com/yiv/CS-Notes/blob/master/docs/notes/代码可读性.md)
+- [代码风格规范](https://github.com/yiv/CS-Notes/blob/master/docs/notes/代码风格规范.md)
 
 ## :memo: 后记 
 
 ### 内推信息
 
-[Job-Recommend](https://github.com/CyC2018/Job-Recommend)
+[Job-Recommend](https://github.com/yiv/Job-Recommend)
 
 ### QQ 群
 
@@ -94,7 +98,7 @@
 <a href="https://www.zhihu.com/people/xiao-shi-guang-33/activities">
     <img src="assets/知乎.jpg" width="60px">
 </a> &nbsp;&nbsp;
-<a href="https://xiaozhuanlan.com/CyC2018">
+<a href="https://xiaozhuanlan.com/yiv">
     <img src="assets/小专栏.jpg" width="60px">
 </a>
 
@@ -104,13 +108,13 @@
 
 不使用 `![]()` 这种方式来引用图片，而是用 `<img>` 标签。一方面是为了能够控制图片以合适的大小显示，另一方面是因为 [GFM](https://github.github.com/gfm/) 不支持 `<center> ![]() </center>` 这种方法让图片居中显示，只能使用 `<div align="center"> <img src=""/> </div>` 达到居中的效果。
 
-在线排版工具：[Text-Typesetting](https://github.com/CyC2018/Text-Typesetting)。
+在线排版工具：[Text-Typesetting](https://github.com/yiv/Text-Typesetting)。
 
 ### 上传方案
 
 为了方便将本地笔记内容上传到 Github 上，实现了一整套自动化上传方案，包括提取图片、Markdown 文档转换、Git 同步。进行 Markdown 文档转换是因为 Github 使用的 GFM 不支持 MathJax 公式和 TOC 标记，所以需要替换 MathJax 公式为 CodeCogs 的云服务和重新生成 TOC 目录。
 
-GFM 转换工具：[GFM-Converter](https://github.com/CyC2018/GFM-Converter)。
+GFM 转换工具：[GFM-Converter](https://github.com/yiv/GFM-Converter)。
 
 ### License
 
