@@ -31,6 +31,11 @@
 > [MySQL](notes/MySQL.md) </br>
 > [Redis](notes/Redis.md)
 
+## ☕️ Go
+
+> [Go 基础](notes/Go%20基础.md) </br>
+
+
 ## ☕️ Java
 
 > [Java 基础](notes/Java%20基础.md) </br>
