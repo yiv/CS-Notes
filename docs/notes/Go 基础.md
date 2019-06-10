@@ -18,11 +18,41 @@
 
 #### 已关闭 channel 
 
+* 关闭 channel 是否已关闭， v, ok := <- channel
+
+  ```go
+  wg := sync.WaitGroup{}
+  	wg.Add(2)
+  	ch := make(chan struct{})
+  	go func() {
+  		defer wg.Done()
+  		for {
+  			time.Sleep(time.Second)
+  			if _, ok := <- ch ; ok {  // true 代表未关闭， false 代表已半闭
+  				fmt.Println("open")
+  			}else{
+  				fmt.Println("close")
+  				return
+  			}
+  		}
+  	}()
+  
+  	go func() {
+  		defer  wg.Done()
+  		time.Sleep(time.Second * 3)
+  		close(ch)
+  	}()
+  
+  	wg.Wait()
+  ```
+
 * 读
 
   * 读无缓存已关闭 channel，读出的值为 0
   * 读有缓存已关闭 channel， 缓存值读完后，读出的值为 0
+
 * 写
+
   * 读已关闭channel，panic: send on closed channel
 
 #### 空 channel
